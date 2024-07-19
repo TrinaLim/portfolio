@@ -1,14 +1,7 @@
 import { FaBars } from "react-icons/fa";
-import styled, { keyframes } from "styled-components";
+import styled from "styled-components";
 import { NavLink as Link } from "react-router-dom";
 
-const colorChange = keyframes`
-    0% { background-color: #F0C6FB; }
-    25% { background-color: #F9EF4F; }
-    50% { background-color: #A9F2A6; }
-    75% { background-color: #A6F0F2; }
-    100% { background-color: #C3A6F2; }
-`;
 export const Nav = styled.nav`
     position: fixed;
     top: 0;
@@ -19,12 +12,12 @@ export const Nav = styled.nav`
     align-items: center;
     padding: 0 1rem;
     z-index: 12;
-    animation: ${colorChange} 5s infinite;
+    background: #3D52A0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 `;
 
 export const NavLink = styled(Link)`
-    color: #808080;
+    color: #d8d8d8;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -32,12 +25,12 @@ export const NavLink = styled(Link)`
     height: 100%;
     cursor: pointer;
     &.active {
-        color: #000000;
+        color: #d4faf9;
     };
     font-family: "Lucida Handwriting", 'Times New Roman', serif;
 `;
 export const NavIconLink = styled.a`
-    color: #000000;
+    color: #d8d8d8;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -46,7 +39,7 @@ export const NavIconLink = styled.a`
     cursor: pointer;
     font-size: 1.8rem;
     &:hover {
-        color: #808080;
+        color: #aadff0;
     }
 `;
 export const Bars = styled(FaBars)`

@@ -1,0 +1,9 @@
+.container {
+    flex-direction: column;
+    text-align: center;
+}
+
+.text {
+    font-size: 18px;
+    color: #333;
+}

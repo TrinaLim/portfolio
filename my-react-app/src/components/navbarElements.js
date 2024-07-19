@@ -33,7 +33,8 @@ export const NavLink = styled(Link)`
     cursor: pointer;
     &.active {
         color: #000000;
-    }
+    };
+    font-family: "Lucida Handwriting", 'Times New Roman', serif;
 `;
 export const NavIconLink = styled.a`
     color: #000000;

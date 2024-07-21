@@ -12,7 +12,7 @@ const Home = () => {
                 <h1>A Little About Me</h1>
                 <p>
                 Before entering polytechnic, I had <mark>no coding experience.</mark> However, upon starting my Information Technology diploma at Singapore Polytechnic, 
-                I discovered my <mark>profound passion</mark> for it. Coding feels like unraveling puzzles and solving problems, 
+                I discovered my <mark>passion</mark> for it. Coding feels like unraveling puzzles and solving problems, 
                 and witnessing everything converge is truly captivating. My dedication to studying and my interest in the diploma is <mark>evident in my grades.</mark>
                 Coding has taught me to <mark>approach problems systematically</mark>, breaking them down into smaller, more manageable components. 
                 <mark>This skill translates beyond coding</mark>, proving invaluable in tackling various challenges in both academic and real-world scenarios. 

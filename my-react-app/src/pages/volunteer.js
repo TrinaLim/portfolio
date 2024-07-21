@@ -24,9 +24,9 @@ const Volunteer = () => {
                         <p>
                             Skills Achieved: 
                             <ul>
-                                <li>- Cross-Clitural Communication</li>
-                                <li>- Mentoring</li>
-                                <li>- Language Tutoring</li>
+                                <li>Cross-Clitural Communication</li>
+                                <li>Mentoring</li>
+                                <li>Language Tutoring</li>
                             </ul>
                         </p>
                     </Text>
@@ -47,9 +47,9 @@ const Volunteer = () => {
                         <p>
                             Skills Achieved:
                             <ul>
-                                <li>- Community Engagement</li>
-                                <li>- Teamwork</li>
-                                <li>- Interpersonal Communication</li>
+                                <li>Community Engagement</li>
+                                <li>Teamwork</li>
+                                <li>Interpersonal Communication</li>
                             </ul>
                         </p>
                     </Text>
@@ -72,9 +72,9 @@ const Volunteer = () => {
                         <p>
                             Skills Achieved: 
                             <ul>
-                                <li>- Leadership</li>
-                                <li>- Teamwork</li>
-                                <li>- Management</li>
+                                <li>Leadership</li>
+                                <li>Teamwork</li>
+                                <li>Management</li>
                             </ul>
                         </p>
                     </Text>
@@ -96,9 +96,9 @@ const Volunteer = () => {
                         <p>
                             Skills Achieved: 
                             <ul>
-                                <li>- Organization</li>
-                                <li>- Teamwork</li>
-                                <li>- Community Service</li>
+                                <li>Organization</li>
+                                <li>Teamwork</li>
+                                <li>Community Service</li>
                             </ul>
                         </p>
                     </Text>
@@ -108,7 +108,7 @@ const Volunteer = () => {
                 <ColumnContainer>
                     <Text>
                         <h3>Diploma Exposure Programme, 2024</h3>
-                        <p> - No Image - </p>
+                        <p> No Image </p>
                         <p>
                             This program was to mainly help out with the setting up and assist the year 1 students 
                             taking common program to explore the different fields of their course. I worked with 
@@ -119,9 +119,9 @@ const Volunteer = () => {
                         <p>
                             Skills Achieved: 
                             <ul>
-                                <li>- Leadership</li>
-                                <li>- Teamwork</li>
-                                <li>- Patience</li>
+                                <li>Leadership</li>
+                                <li>Teamwork</li>
+                                <li>Patience</li>
                             </ul>
                         </p>
                     </Text>

@@ -8,7 +8,7 @@ export const Nav = styled.nav`
     width: 100%;
     height: 85px;
     display: flex;
-    justify-content: flex;
+    justify-content: space-between;
     align-items: center;
     padding: 0 1rem;
     z-index: 12;
@@ -26,9 +26,10 @@ export const NavLink = styled(Link)`
     cursor: pointer;
     &.active {
         color: #d4faf9;
-    };
+    }
     font-family: "Lucida Handwriting", 'Times New Roman', serif;
 `;
+
 export const NavIconLink = styled.a`
     color: #d8d8d8;
     display: flex;
@@ -42,6 +43,7 @@ export const NavIconLink = styled.a`
         color: #aadff0;
     }
 `;
+
 export const Bars = styled(FaBars)`
     display: none;
     color: #808080;
@@ -59,7 +61,6 @@ export const Bars = styled(FaBars)`
 export const NavMenu = styled.div`
     display: flex;
     align-items: center;
-    /* Adjust the margin to align the items properly */
     margin-right: auto;
     @media screen and (max-width: 768px) {
         display: none;
@@ -70,4 +71,18 @@ export const NavIconsContainer = styled.div`
     display: flex;
     align-items: center;
     padding-right: 2rem;
+`;
+
+export const MobileMenu = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 85px;
+    width: 100%;
+    background: #3D52A0;
+    padding: 1rem;
+    @media screen and (min-width: 769px) {
+        display: none;
+    }
 `;

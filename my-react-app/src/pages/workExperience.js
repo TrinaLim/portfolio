@@ -38,7 +38,7 @@ const Volunteer = () => {
                         <h3>Yakun, 2021 - 2022</h3>
                     </Text>
                     <Image
-                        src="/images/volunteer/porridge.png"
+                        src="/images/workExperience/yakun.jpeg"
                         alt="Porridge Distribution Event"
                     />
                     <Text>

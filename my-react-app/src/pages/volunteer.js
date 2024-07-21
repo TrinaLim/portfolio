@@ -1,5 +1,5 @@
 import React from "react";
-import { ItemsContainer, RowContainer, ColumnContainer, Image, Text } from "./volunteerElements";
+import { ItemsContainer, RowContainer, ColumnContainer, Image, Text } from "./indexElements";
 
 const Volunteer = () => {
     return (

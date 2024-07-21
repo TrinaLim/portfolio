@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/home/home';
-import Projects from './pages/projects/projects';
-import Workshop from './pages/workshop/workshop';
-import Volunteer from './pages/volunteer/volunteer';
-import CCA from './pages/cca/cca';
-import WorkExperience from './pages/workExperience/workExperience';
-import Others from './pages/others/others';
+import Projects from './pages/projects';
+import Workshop from './pages/workshop';
+import Volunteer from './pages/volunteer';
+import CCA from './pages/cca';
+import WorkExperience from './pages/workExperience';
+import Others from './pages/others';
 import Navbar from './components/navbar';
 
 

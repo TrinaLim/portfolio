@@ -70,7 +70,7 @@ export const NavMenu = styled.div`
 export const NavIconsContainer = styled.div`
     display: flex;
     align-items: center;
-    padding-right: 2rem;
+    padding-right: 3rem;
 `;
 
 export const MobileMenu = styled.div`

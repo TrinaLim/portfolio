@@ -22,10 +22,12 @@ const Volunteer = () => {
                             came to Singapore Polytechnic to learn English. 
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Cross-Cultural Communication</ul>
-                            <ul>- Mentoring</ul>
-                            <ul>- Language Tutoring</ul>
+                            Skills Achieved: 
+                            <ul>
+                                <li>- Cross-Clitural Communication</li>
+                                <li>- Mentoring</li>
+                                <li>- Language Tutoring</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
@@ -43,10 +45,12 @@ const Volunteer = () => {
                             to pack porridge and work in groups to distribute around the block units accordingly.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Community Engagement</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Interpersonal Communication</ul>
+                            Skills Achieved:
+                            <ul>
+                                <li>- Community Engagement</li>
+                                <li>- Teamwork</li>
+                                <li>- Interpersonal Communication</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
@@ -66,10 +70,12 @@ const Volunteer = () => {
                             where we had to plan activities and work with the other leaders to carry out this 1 week camp.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Leadership</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Management</ul>
+                            Skills Achieved: 
+                            <ul>
+                                <li>- Leadership</li>
+                                <li>- Teamwork</li>
+                                <li>- Management</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
@@ -88,10 +94,12 @@ const Volunteer = () => {
                             the items to the migrant workers. 
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Organization</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Community Service</ul>
+                            Skills Achieved: 
+                            <ul>
+                                <li>- Organization</li>
+                                <li>- Teamwork</li>
+                                <li>- Community Service</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
@@ -99,20 +107,22 @@ const Volunteer = () => {
             <RowContainer>
                 <ColumnContainer>
                     <Text>
-                        <h3>Student Volunteer for Year 1 DIT/DAAA/DISM, 2024</h3>
+                        <h3>Diploma Exposure Programme, 2024</h3>
                         <p> - No Image - </p>
                         <p>
                             This program was to mainly help out with the setting up and assist the year 1 students 
                             taking common program to explore the different fields of their course. I worked with 
                             other student helpers and assisted the year 1 students to the different venues available 
-                            and guided them through the tutorials should they need any help, also ensuring that their 
+                            and guided them through the tutorials sholid they need any help, also ensuring that their 
                             engaged and learning effectively.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Leadership</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Patience</ul>
+                            Skills Achieved: 
+                            <ul>
+                                <li>- Leadership</li>
+                                <li>- Teamwork</li>
+                                <li>- Patience</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>

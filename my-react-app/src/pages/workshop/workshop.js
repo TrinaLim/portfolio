@@ -10,43 +10,47 @@ const Volunteer = () => {
             <RowContainer>
                 <ColumnContainer>
                     <Text>
-                        <h3>Japanese Inbound Programme, 2024</h3>
+                        <h3>SEED code league, 2023</h3>
+                    </Text>
+                    <Image
+                        src="/images/workshops/SEEDcert.png"
+                        alt="SEED code league"
+                    />
+                    <Text>
+                        <p>
+                            This was a coding challenge in JavaScript in groups of 5 where we had to solve a variety of JavaScript questions
+                            in order to earn points and win.
+                        </p>
+                        <p>
+                            Skills Achieved:
+                            <ul>
+                                <li>Teamwork</li>
+                                <li>Critical Thinking</li>
+                                <li>Problem Solving</li>
+                            </ul>
+                        </p>
+                    </Text>
+                </ColumnContainer>
+                <ColumnContainer>
+                    <Text>
+                        <h3>IOS DevScout, 2024</h3>
                     </Text>
                     <Image
                         src="/images/workshops/iosDevScout.jpeg"
-                        alt="Japanese Inbound Programme"
+                        alt="IOS DevScout Event"
                     />
                     <Text>
                         <p>
-                            I was a language partner for this 1 week programme where Japanese students 
-                            came to Singapore Polytechnic to learn English. 
+                            I attended an IOS devscout workshop where I learned about SwiftUI and students experiences as well
+                            as networking with the others attendees.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Cross-Cultural Communication</ul>
-                            <ul>- Mentoring</ul>
-                            <ul>- Language Tutoring</ul>
-                        </p>
-                    </Text>
-                </ColumnContainer>
-                <ColumnContainer>
-                    <Text>
-                        <h3>Porridge Distribution Event, 2022</h3>
-                    </Text>
-                    <Image
-                        src="/images/volunteer/porridge.png"
-                        alt="Porridge Distribution Event"
-                    />
-                    <Text>
-                        <p>
-                            I was a volunteer under North West Youth Assembly for this 1 day event 
-                            to pack porridge and work in groups to distribute around the block units accordingly.
-                        </p>
-                        <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Community Engagement</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Interpersonal Communication</ul>
+                            Skills Achieved:
+                            <ul>
+                                <li>Active Listening</li>
+                                <li>Networking</li>
+                                <li>Communication</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
@@ -54,72 +58,77 @@ const Volunteer = () => {
             <RowContainer>
                 <ColumnContainer>
                     <Text>
-                        <h3>OGL, 2022</h3>
+                        <h3>Computer Science Workshop, 2024</h3>
                     </Text>
                     <Image
-                        src="/images/volunteer/ogl2022.png"
-                        alt="Secondary School OGL"
+                        src="/images/workshops/compSci.jpeg"
+                        alt="Computer Science Workshop"
                     />
                     <Text>
                         <p>
-                            I was an Orientation Camp Leader for the Secondary 1 newcomers
-                            where we had to plan activities and work with the other leaders to carry out this 1 week camp.
+                            This was organized by AUG Singapore where we looked at some fundamental concepts of Cybersecurity 
+                            with hands-on exercises.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Leadership</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Management</ul>
+                            Skills Achieved:
+                            <ul>
+                                <li>Critical Thinking</li>
+                                <li>Security</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
                 <ColumnContainer>
                     <Text>
-                        <h3>Donation Drive for Migrant Workers, 2024</h3>
-                    </Text>
-                    <Image
-                        src="/images/volunteer/bloomingRaincoats.jpeg"
-                        alt="Donation Drive for Migrant Workers"
-                    />
-                    <Text>
-                        <p>
-                            This was a one-time project where we packed reusable items neatly for the 
-                            migrant workers such as water bottles and analgesic remedies. We then distributed 
-                            the items to the migrant workers. 
-                        </p>
-                        <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Organization</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Community Service</ul>
-                        </p>
-                    </Text>
-                </ColumnContainer>
-            </RowContainer>
-            <RowContainer>
-                <ColumnContainer>
-                    <Text>
-                        <h3>Student Volunteer for Year 1 DIT/DAAA/DISM, 2024</h3>
+                        <h3>Talk Series On How To Ace Your FOP, 2023</h3>
                         <p> - No Image - </p>
                         <p>
-                            This program was to mainly help out with the setting up and assist the year 1 students 
-                            taking common program to explore the different fields of their course. I worked with 
-                            other student helpers and assisted the year 1 students to the different venues available 
-                            and guided them through the tutorials should they need any help, also ensuring that their 
-                            engaged and learning effectively.
+                            This was an online workshop during my year 1 on Fundamentals Of Programming(FOP). Where 
+                            the seniors shared about ways of achieving high grades for the module.
                         </p>
                         <p>
-                            <ul>Skills Achieved: </ul>
-                            <ul>- Leadership</ul>
-                            <ul>- Teamwork</ul>
-                            <ul>- Patience</ul>
+                            Skills Achieved: 
+                            <ul>
+                                <li>Time Management</li>
+                                <li>Study Techniques</li>
+                                <li>Resource Utilization</li>
+                            </ul>
+                        </p>
+                    </Text>
+                </ColumnContainer>
+            </RowContainer>
+            <RowContainer>
+                <ColumnContainer>
+                    <Text>
+                        <h3>Leadership Development Programme, 2023</h3>
+                        <p> - No Image - </p>
+                        <p>
+                            This was a programme where we were taught the 7 habits of leadership.
+                        </p>
+                        <p>
+                            Skills Achieved: 
+                            <ul>
+                                <li>Decision Making</li>
+                                <li>Conflict Resolution</li>
+                                <li>Effective Communication</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
                 <ColumnContainer>
                     <Text>
+                        <h3>Graphing Impact Data Visualisation Workshop, 2023</h3>
+                        <p> - No Image - </p>
                         <p>
-                            
+                            This was an online workshop, where we were introduced Python, Python's Numpy and Pandas Library.
+                        </p>
+                        <p>
+                            Skills Achieved: 
+                            <ul>
+                                <li>Data Analysis</li>
+                                <li>Visualisation</li>
+                                <li>Programming</li>
+                            </ul>
                         </p>
                     </Text>
                 </ColumnContainer>
